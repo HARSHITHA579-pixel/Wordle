@@ -10,7 +10,7 @@ All this is done using basic HTML, CSS, and JavaScript.
 
 ##  Practice Fork
 
-This is a fork of [ImKennyYip], made to improve my knowledge by experimenting with CSS, JavaScript, and some HTML.  
+This is a fork of [ImKennyYip] made to improve my knowledge by experimenting with CSS, JavaScript, and some HTML.  
 It’s just for learning and self-practice.
 
 ![wordle-preview](https://user-images.githubusercontent.com/78777681/163040667-a17975a5-1cef-49d8-a668-476cc013d1a8.png)
